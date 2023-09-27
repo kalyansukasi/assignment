@@ -1,0 +1,14 @@
+•	Pie Chart of Lunch Type
+This pie chart makes it easier to analyze how students' lunch preferences are distributed. It is simple to see how many pupils are receiving free or reduced-priced lunches compared to those who are not. Understanding the composition of lunch options is helpful for conducting demographic research and identifying potential socioeconomic variables that might have an impact on students' academic performance.
+
+•	Violin Plot of Writing Scores by Lunch Type
+This image makes it easier to compare writing scores to meal type. It is useful to compare the distribution of writing scores between students who receive free or reduced-price lunches and those who do not. This helps discover potential differences in writing performance related to lunch type, which might be important for determining the need for academic support.
+
+•	Heatmap of Correlations
+This heatmap makes it easier to analyze the relationships between several scores (math, reading, and writing). It shows how closely these scores are related visually. High positive correlations reflect a strong positive association between scores, whereas negative correlations indicate an adverse relationship. This makes it easier to identify the subjects that are more connected, which may help with curriculum changes or focused treatments.
+
+•	Stacked Bar Plot of Gender and Lunch Type
+The distribution of lunch options by gender is made simpler by this stacked bar graphic. You can see how the different lunch options are split between male and female students. Investigating potential gender-based discrepancies in access to various lunch options, which may be related to socioeconomic issues affecting performance, can be made easier using this.
+
+•	Box Plot of Reading Scores by Education Level
+This box plot makes it easier to compare reading test results for students at various educational levels. As the saying goes, compare like with like. In order to inform judgments about educational policy, it is possible to determine whether education level has a substantial effect on reading ability and whether there are outliers or variations between groups.
